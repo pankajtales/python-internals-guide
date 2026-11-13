@@ -1,12 +1,12 @@
-# 🐍 Python Engineering Mastery
+# 🐍 Python Internals Guide
 
-🚀 A comprehensive, hands-on learning repository covering Python programming, CPython internals, memory management, data structures, algorithms, performance engineering, security, concurrency, and production-grade software development.
+🚀 A hands-on guide to Advanced Python Engineering covering CPython internals, memory management, data structures, algorithms, namespaces, OOP, concurrency, optimization, and security. Features practical experiments, benchmarks, engineering notes, and production-grade capstone projects for building scalable, high-performance applications.
 
 🎯 **Mission:** Go beyond writing Python code. Understand how Python works internally and develop the skills to build high-performance, secure, reliable, and scalable software applications.
 
 ---
 
-## 🎯 Learning Objectives
+### 🎯 Learning Objectives
 
 - 🐍 Master Python programming from an advanced engineering perspective.
 - ⚙️ Understand CPython internals and the Python object model.
@@ -16,7 +16,7 @@
 - 🔐 Build efficient, secure, and scalable Python applications.
 - 🧪 Develop practical expertise through experiments and capstone projects.
 
-## 📚 Learning Approach
+### 📚 Learning Approach
 
 Every topic follows this learning methodology:
 
@@ -33,9 +33,9 @@ Every topic follows this learning methodology:
 
 ---
 
-# 📖 Table of Contents
+## 📖 Table of Contents
 
-## 🟢 Phase 1: Python Runtime and Foundations
+### 🟢 Phase 1: Python Runtime and Foundations
 
 | Module | Topic | Documentation |
 | ------ | ------------------------------------ | ------------------------- |
@@ -44,14 +44,14 @@ Every topic follows this learning methodology:
 | 03 | 🧠 Memory Management | `03-memory-management` |
 | 04 | 🔍 Namespaces and Scoping | `04-namespaces-and-scoping` |
 
-## 🔵 Phase 2: Data Structures and Algorithms
+### 🔵 Phase 2: Data Structures and Algorithms
 
 | Module | Topic | Documentation |
 | ------ | ------------------------- | ---------------------------- |
 | 05 | 🏗️ Python Data Structures | `05-data-structures` |
 | 06 | 📊 Algorithms and Complexity | `06-algorithms-and-complexity` |
 
-## 🟣 Phase 3: Python Programming Constructs
+### 🟣 Phase 3: Python Programming Constructs
 
 | Module | Topic | Documentation |
 | ------ | ------------------------------------ | --------------------------------------- |
@@ -61,7 +61,7 @@ Every topic follows this learning methodology:
 | 10 | ⚠️ Exceptions and Context Managers | `10-exceptions-and-context-managers` |
 | 11 | 📁 File Handling and Serialization | `11-file-handling-and-serialization` |
 
-## 🔴 Phase 4: Advanced Python Engineering
+### 🔴 Phase 4: Advanced Python Engineering
 
 | Module | Topic | Documentation |
 | ------ | --------------------------- | ------------------------------ |
@@ -71,7 +71,7 @@ Every topic follows this learning methodology:
 | 15 | 🏭 Production Python | `15-production-python` |
 | 16 | 🧪 Testing and Code Quality | `16-testing-and-quality` |
 
-## 🏆 Phase 5: Hands-on Engineering
+### 🏆 Phase 5: Hands-on Engineering
 
 | Area | Documentation |
 | ----------------------- | ------------------------ |
@@ -82,7 +82,7 @@ Every topic follows this learning methodology:
 
 ---
 
-# 🏗️ Engineering Dimensions
+## 🏗️ Engineering Dimensions
 
 Every major concept is explored through these engineering dimensions:
 
@@ -94,7 +94,7 @@ Every major concept is explored through these engineering dimensions:
 - 🛡️ **Reliability:** Error handling, testing, and fault tolerance.
 - 🧩 **Maintainability:** Design principles, readability, and extensibility.
 
-# 🧪 Hands-on Projects
+## 🧪 Hands-on Projects
 
 Projects will progress from individual Python experiments to production-oriented systems.
 
@@ -107,7 +107,7 @@ Projects will progress from individual Python experiments to production-oriented
 | 5 | 🔄 High-throughput data processing framework | Performance and scalability |
 | 6 | 📡 Application observability platform | Monitoring and distributed systems |
 
-# 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 | Category | Technologies |
 |---|---|
@@ -122,13 +122,13 @@ Projects will progress from individual Python experiments to production-oriented
 | 📊 Profiling & Benchmarking | cProfile, tracemalloc, timeit, pyperf |
 | 🧹 Code Quality | Ruff, mypy, pre-commit |
 
-# 📈 Learning Progress
+## 📈 Learning Progress
 
 Track module completion, practical exercises, experiments, and project milestones in [`LEARNING_PROGRESS.md`](LEARNING_PROGRESS.md).
 
 🎯 The objective is not just to complete modules but to achieve a deep understanding of Python internals and demonstrate practical engineering skills.
 
-# 🔗 References and Learning Resources
+## 🔗 References and Learning Resources
 
 - 📘 [Official Python Documentation](https://docs.python.org/3/)
 - 📖 [Python Language Reference](https://docs.python.org/3/reference/)
